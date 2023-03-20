@@ -1,0 +1,22 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package tugaskalkulator_123210179;
+
+
+
+/**
+ *
+ * @author M S I
+ */
+public class TugasKalkulator_123210179 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+       GUI gui = new GUI();
+      
+} 
+}
